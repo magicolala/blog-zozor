@@ -1,6 +1,6 @@
 {
   "devDependencies": {
-    "@symfony/webpack-encore": "^0.9.1",
+    "@symfony/webpack-encore": "^4.2.0",
     "bloodhound-js": "^1.2.1",
     "bootstrap-sass": "^3.4.1",
     "bootstrap-tagsinput": "^0.7.1",
